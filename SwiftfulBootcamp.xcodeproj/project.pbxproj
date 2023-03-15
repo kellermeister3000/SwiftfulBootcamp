@@ -11,6 +11,7 @@
 		840489BE29C24A100005ABFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840489BD29C24A100005ABFF /* ContentView.swift */; };
 		840489C029C24A110005ABFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 840489BF29C24A110005ABFF /* Assets.xcassets */; };
 		840489C329C24A110005ABFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 840489C229C24A110005ABFF /* Preview Assets.xcassets */; };
+		840489CC29C24A450005ABFF /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840489CB29C24A450005ABFF /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		840489BD29C24A100005ABFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		840489BF29C24A110005ABFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		840489C229C24A110005ABFF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		840489CB29C24A450005ABFF /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				840489BB29C24A100005ABFF /* SwiftfulBootcampApp.swift */,
 				840489BD29C24A100005ABFF /* ContentView.swift */,
+				840489CB29C24A450005ABFF /* TextBootcamp.swift */,
 				840489BF29C24A110005ABFF /* Assets.xcassets */,
 				840489C129C24A110005ABFF /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				840489BE29C24A100005ABFF /* ContentView.swift in Sources */,
+				840489CC29C24A450005ABFF /* TextBootcamp.swift in Sources */,
 				840489BC29C24A100005ABFF /* SwiftfulBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
